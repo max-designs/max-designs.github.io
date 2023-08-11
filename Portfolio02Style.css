@@ -1,0 +1,121 @@
+#main{
+    
+    background-color: rgb(177, 177, 177);
+    border: solid 1px;
+    border-color: #B1B1B1;
+    width: 1000px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
+
+
+
+#work
+{
+    border: solid; width: 1.2in; margin: auto;
+    margin-left: 1in;
+    text-align: center;
+    margin-left: 56%;
+    font-size: 16pt;
+	font-family: 'proxima-nova', sans-serif;
+    font-style:"regular";
+    margin-top: 1.5%;
+
+}
+
+#about
+{
+    border: solid; width: 1.2in; margin: auto;
+    margin-left: 1in;
+    text-align: center;
+    margin-left: 71.3%;
+    font-size: 16pt;
+	font-family: 'proxima-nova', sans-serif;
+    font-style:"regular"; 
+    margin-top: -3.1%;
+    
+}
+
+#contact
+{
+    border: solid; width: 1.2in; margin: auto;
+    margin-left: 1in;
+    text-align: center;
+    margin-left: 86%;
+    font-size: 16pt;
+	font-family: 'proxima-nova', sans-serif;
+    font-style:"regular";
+    margin-top: -3.1%;
+    
+}
+
+
+
+#logo
+{
+    margin-top: -4.53%;
+    margin-left: 1%;
+}
+
+
+#N1
+{
+    
+    margin-left: 2%;
+    margin-top: 1%;
+    margin-bottom:
+    
+}
+
+#description
+{
+    width: 400px;
+    height: 290.7217px;
+    margin-left: 56%;
+    font-family: 'minion pro' "bold" , serif;
+    font-style:"regular";
+    font-size: 13.3pt;
+    margin-bottom: -35%;
+}
+
+#N2
+{
+    margin-left: 2%;
+    margin-top: 8%
+}
+
+#N3
+{
+    margin-left: 35.2%;
+    margin-top: -46.5%;
+    margin-bottom: 34%;
+    
+}
+
+#N4
+{
+    margin-left: 68.28%;
+    margin-top: -80.5%;
+    margin-bottom: 34%;
+    
+}
+
+#N5
+{
+    margin-left: 2%;
+    margin-top: -24.18%;
+    margin-bottom: 34%;
+    
+}
+
+#N6
+{
+    margin-left: 35.2%;
+    margin-top: -80.5%;
+    margin-bottom: 34%;
+    
+}
+

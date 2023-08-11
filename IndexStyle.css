@@ -1,0 +1,201 @@
+#main{
+    
+    background-color: rgb(177, 177, 177);
+    border: solid 1px;
+    border-color: #B1B1B1;
+    width: 1000px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
+
+#work
+{
+    border: solid; width: 1.2in; margin: auto;
+    margin-left: 1in;
+    text-align: center;
+    margin-left: 560px;
+    font-size: 16pt;
+	font-family: 'proxima-nova', sans-serif;
+    font-style:"regular";
+    margin-top: 15px;
+
+}
+
+#about
+{
+    border: solid; width: 1.2in; margin: auto;
+    margin-left: 1in;
+    text-align: center;
+    margin-left: 713px;
+    font-size: 16pt;
+	font-family: 'proxima-nova', sans-serif;
+    font-style:"regular"; 
+    margin-top: -31px;
+    
+}
+
+#contact
+{
+    border: solid; width: 1.2in; margin: auto;
+    margin-left: 1in;
+    text-align: center;
+    margin-left: 860px;
+    font-size: 16pt;
+	font-family: 'proxima-nova', sans-serif;
+    font-style:"regular";
+    margin-top: -31px;
+    
+}
+
+
+
+#logo
+{
+    margin-top: -42px;
+    margin-left: 10px;
+}
+
+#bio
+{
+    margin-left: 20px;
+    font-family: 'minion pro' "bold" , serif;
+    font-style:"regular";
+    font-size: 15pt;
+}
+
+#Portfolio01
+{
+    
+    margin-left: 20px;
+    
+}
+
+#Portfolio02
+{
+    margin-left: 302px;
+    margin-top: -253.3px;
+    
+}
+
+#Portfolio03
+{
+    margin-left: 556px;
+    margin-top: -70px;
+}
+
+#Portfolio04
+{
+    margin-left: 808px;
+    margin-top: -27.5px;
+
+}
+
+#Portfolio05
+{
+    margin-top: -500px;
+    margin-left: 20px;
+}
+
+#Portfolio06
+{
+    margin-top: -200.4px;
+    margin-left: 358px;
+}
+
+#Portfolio07
+{
+    margin-top: -195.8px;
+    margin-left: 689px;
+}
+
+#Portfolio08
+{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+#Portfolio09
+{
+    margin-top: -385px;
+    margin-left: 358px;
+    margin-bottom: 200px;
+}
+
+#Portfolio10
+{
+    margin-top: -470.8px;
+    margin-left: 756px;
+    margin-bottom: 200px;
+}
+
+#Portfolio11
+{
+    margin-left: 20px;
+    margin-top: -60px;
+}
+
+#Portfolio12
+{
+    margin-left: 358px;
+    margin-top: -171.2px;
+    margin-bottom: 200px;
+}
+
+#Portfolio13
+{
+    margin-left: 756px;
+    margin-top: -376.5px;
+    margin-bottom: 200px;
+}
+
+#Portfolio14
+{
+    margin-left: 20px;
+    margin-top: -275px;
+    margin-bottom: 200px;
+}
+
+#Portfolio15
+{
+    margin-left: 358px;
+    margin-top: -846px;
+    margin-bottom: 200px;
+}
+
+#Portfolio16
+{
+    margin-left: 756px;
+    margin-top: -646px;
+    margin-bottom: 400px;
+}
+
+#Portfolio17
+{
+    margin-left: 20px;
+    margin-top: -176px;
+    margin-bottom: 400px;
+}
+
+#Portfolio18
+{
+    margin-left: 358px;
+    margin-top: -859px;
+    margin-bottom: 400px;
+}
+
+#Portfolio19
+{
+    margin-left: 756px;
+    margin-top: -599.8px;
+    margin-bottom: 400px;
+}
+
+#Portfolio20
+{
+    margin-left: 20px;
+    margin-top: -50px;
+    margin-bottom: 400px;
+}

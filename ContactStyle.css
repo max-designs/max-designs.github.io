@@ -1,0 +1,142 @@
+#main{
+    
+    background-color: rgb(177, 177, 177);
+    border: solid 1px;
+    border-color: #B1B1B1;
+    width: 1000px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
+#main2{
+    
+    background-color: rgb(177, 177, 177);
+    border: solid 1px;
+    border-color: #B1B1B1;
+    width: 1000px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
+
+
+#work
+{
+    border: solid; width: 1.2in; margin: auto;
+    margin-left: 1in;
+    text-align: center;
+    margin-left: 560px;
+    font-size: 16pt;
+	font-family: 'proxima-nova', sans-serif;
+    font-style:"regular";
+    margin-top: 1.5%;
+
+}
+
+#about
+{
+    border: solid; width: 1.2in; margin: auto;
+    margin-left: 1in;
+    text-align: center;
+    margin-left: 71.3%;
+    font-size: 16pt;
+	font-family: 'proxima-nova', sans-serif;
+    font-style:"regular"; 
+    margin-top: -3.1%;
+    
+}
+
+#contact
+{
+    border: solid; width: 1.2in; margin: auto;
+    margin-left: 1in;
+    text-align: center;
+    margin-left: 86%;
+    font-size: 16pt;
+	font-family: 'proxima-nova', sans-serif;
+    font-style:"regular";
+    margin-top: -3.1%;
+    
+}
+
+
+
+#description
+{
+    width: 870.3661px;
+    height: 119.613px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 1.5%;
+    font-family: 'minion pro' "bold" , serif;
+    font-style:"regular";
+    font-size: 13.3pt;
+    margin-bottom: -17.7%;
+    
+}
+
+#logo
+{
+    margin-top: -4.2%;
+    margin-left: 1%;
+    margin-bottom: 40%;
+}
+
+#N1
+{
+    margin-left: 6.6%;
+    margin-right: 6.6%;
+    margin-top: -33%;
+    margin-bottom: 84%;
+    
+}
+
+#phone
+{
+    width: 165.7744px;
+    height: 23.6475px;
+    margin-left: 65.72%;
+    margin-right: auto;
+    padding-top: 1.3%;
+    font-family: 'Futura Pt';
+    font-weight:500; 
+    font-size: 16pt;
+    margin-top: -123.35%;
+    margin-bottom: 97.7%;
+    
+}
+
+#linkedin
+{
+    width: 292.7803px;
+    height: 45.25px;
+    margin-left: 59.82%;
+    margin-right: auto;
+    padding-top: 36%;
+    font-family: 'Futura Pt';
+    font-weight:500; 
+    font-size: 15.24pt;
+    margin-top: -123.35%;
+    margin-bottom: 97.7%;
+    
+}
+
+
+#email
+{
+    width: 290.54px;
+    height: 23.6475px;
+    margin-left: 63.5%;
+    margin-right: auto;
+    padding-top: 36.3%;
+    font-family: 'Futura Pt';
+    font-weight:500; 
+    font-size: 16pt;
+    margin-top: -123.35%;
+    margin-bottom: 97.7%;
+    
+}
